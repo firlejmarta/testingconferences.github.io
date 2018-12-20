@@ -30,6 +30,12 @@
   url: https://www.qaorthehighway.com/
   twitter: qaorthehighway
   status: Registration is Open
+  
+  - name: test:fest 2019
+  location: Wroclaw, Poland
+  dates: "February 23, 2019"
+  url: http://www.testfest.pl
+  twitter: test_fest_
 
 - name: Testing in Context Conference Australia (TiCCA) 19
   location: Melbourne, Australia
